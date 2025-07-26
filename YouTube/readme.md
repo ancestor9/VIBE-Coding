@@ -7,3 +7,6 @@
   > API 키를 만듭니다.
 
   > Python용 빠른 시작을 사용하거나 curl을 사용하여 REST API를 호출합니다.
+
+
+#### 2. [구글이 무료로 푼 AI 핵폭탄! Google AI Studio × Gemini 실전 활용 TOP7](https://www.youtube.com/watch?v=pFzJ9R89_WM)
